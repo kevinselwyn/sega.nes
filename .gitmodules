@@ -4,3 +4,9 @@
 [submodule "utilities/img2chr"]
 	path = utilities/img2chr
 	url = git://github.com/kevinselwyn/img2chr.git
+[submodule "graveyardduck"]
+	path = graveyardduck
+	url = git://github.com/sobodash/graveyardduck.git
+[submodule "utilities/graveyardduck"]
+	path = utilities/graveyardduck
+	url = git://github.com/sobodash/graveyardduck.git
