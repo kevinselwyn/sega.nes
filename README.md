@@ -1,13 +1,13 @@
-#sega.nes
+# sega.nes
 
 Sega Genesis intro on the NES
 
-##Building
+## Building
 
 ```
 make
 ```
 
-##Screenshot
+## Screenshot
 
 ![Sega](screenshot.png)
